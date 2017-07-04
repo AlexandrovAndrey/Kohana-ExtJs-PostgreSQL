@@ -1,0 +1,5 @@
+127.0.0.1|opera|windows
+127.0.0.2|chrome|linux
+127.0.0.3|opera|mac os
+127.0.0.4|firefox|windows
+127.0.0.5|opera|mac os
